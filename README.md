@@ -89,7 +89,8 @@ Predictions:
 ```
 
 ## Output:
-[image](https://github.com/user-attachments/assets/1e6c626f-8096-49d4-93b8-97ca749326d3)
+![image](https://github.com/user-attachments/assets/79a64a9f-3b38-4621-8bc1-e53a9e9fcd8b)
+
 
 
 
